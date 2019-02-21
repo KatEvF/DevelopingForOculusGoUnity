@@ -1,4 +1,14 @@
-﻿using System.Collections;
+﻿
+
+/*This program features a scoring method that is depedent on player collisions
+The player must collide with specifically tagged colliders to aquire points
+The points are visible on a UI Canvas which also features a countdown timer
+UI elements for score and time left must be created and configured in Unity
+For reference on how to use this script please consult the Scoring document
+for any questions regarding how to use this script please contact kai02916@gmail.com
+Created by: Kathrine von Friedl for the University of Waterloo's Ideas Clinic*/
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
